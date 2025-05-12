@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff;
+  color: #333;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 1em;
+  text-align: center;
+}
+
+/* Header */
+header {
+  background: #27ae60;
+  color: white;
+  padding: 2em 0 1em;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+header p {
+  margin: 0.5em 0;
+  font-size: 1.2em;
+}
+
+/* Hero Section */
+.hero {
+  background: #eafaf1;
+  padding: 3em 1em;
+}
+
+.hero h2 {
+  color: #2c3e50;
+  margin-bottom: 0.5em;
+}
+
+.hero p {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
+.btn {
+  background: #27ae60;
+  color: white;
+  padding: 0.8em 1.5em;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* Contact Section */
+.contact {
+  padding: 3em 1em;
+  background: #f9f9f9;
+}
+
+.contact a {
+  color: #27ae60;
+  text-decoration: none;
+}
+
+/* Footer */
+footer {
+  background: #2c3e50;
+  color: white;
+  padding: 1em 0;
+}
+.health-risks {
+  background: #fff6f0;
+  padding: 3em 1em;
+  text-align: left;
+}
+
+.health-risks h2 {
+  color: #d35400;
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+.health-risks p {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+  color: #555;
+}
+
+.health-risks ul {
+  list-style: disc;
+  padding-left: 1.5em;
+  font-size: 1em;
+  line-height: 1.8;
+}
+strong {
+  color: #2c7a4b;
+}
+.register-cta {
+  background-color: #fff3cd;
+  padding: 3em 1em;
+  text-align: center;
+  border-top: 2px solid #ffeeba;
+  border-bottom: 2px solid #ffeeba;
+}
+
+.register-cta h2 {
+  color: #856404;
+  margin-bottom: 0.5em;
+}
+
+.register-cta p {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+  color: #6c5100;
+}
+.online-option {
+  background-color: #f0fff4;
+  padding: 1.5em 1em;
+  text-align: center;
+  font-size: 1.1em;
+  color: #146356;
+  border-top: 2px solid #ccf5e7;
+}
+
+.online-option strong {
+  color: #0c6b58;
+}
+.results {
+  background-color: #fef9f1;
+  padding: 3em 1em;
+  text-align: center;
+  color: #5a3e1b;
+}
+
+.results h2 {
+  color: #d35400;
+  margin-bottom: 1em;
+}
+
+.results ul {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto 1.5em;
+  list-style-type: disc;
+  padding-left: 1.5em;
+  line-height: 1.8;
+}
+
+
